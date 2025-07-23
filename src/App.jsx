@@ -5,7 +5,8 @@ class App extends Component {
     return (
       <div>
         <h1>
-          welcome to my app
+          welcome to K L University
+
         </h1>
       </div>
     );
