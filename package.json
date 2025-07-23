@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/vijaykolla-01/v011.git",
+  "homepage": "https://vijaykolla-01.github.io/v011/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
